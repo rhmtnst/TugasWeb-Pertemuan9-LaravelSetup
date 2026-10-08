@@ -236,7 +236,8 @@ Halaman utama menampilkan nama, pesan sambutan, mata kuliah, dan navigasi halama
 
 URL: `http://127.0.0.1:8000/about`
 
-<img width="1366" height="768" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/0fee6715-6059-4226-a6b3-b69bd8a9e54f" />
+<img width="1365" height="682" alt="Screenshot 2026-10-08 150313" src="https://github.com/user-attachments/assets/2ddb3ee5-1633-4231-aee6-bd8d756785f1" />
+
 
 ---
 
